@@ -15,9 +15,3 @@
 * [ER Diagram](https://github.com/ssahibsingh/Social-Media-Database-Project/blob/9c3312aaf59acdce09fe6f4857e96b371fa58b40/ER%20Diagram.png)
 * [Sample Queries](https://github.com/ssahibsingh/Social-Media-Database-Project/blob/9c3312aaf59acdce09fe6f4857e96b371fa58b40/queries.sql)
 
-
-# Our Team 👩‍💻👨‍💻
-[Kanav Phull](https://github.com/kanavphull)<br>
-[Raj Gupta](https://github.com/RAJGUPTA28)<br>
-[Sahib Singh](https://github.com/ssahibsingh)<br>
-[Sakshi Warandani](https://github.com/Sa960)
